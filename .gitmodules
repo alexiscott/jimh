@@ -1,3 +1,6 @@
 [submodule "vendor/extensions/paperclipped"]
 	path = vendor/extensions/paperclipped
 	url = git://github.com/kbingman/paperclipped.git
+[submodule "vendor/extensions/simplymusic"]
+	path = vendor/extensions/simpymusic
+	url = git://github.com/arkima/simpymusic.git
